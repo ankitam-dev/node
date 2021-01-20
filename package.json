@@ -1,0 +1,24 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "learning node js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "start-server": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankitam-dev/node.git"
+  },
+  "author": "Ankita Mehta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ankitam-dev/node/issues"
+  },
+  "homepage": "https://github.com/ankitam-dev/node#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
